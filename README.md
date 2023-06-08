@@ -1,4 +1,4 @@
-![Vileplume pokemon](https://cdn.bulbagarden.net/upload/thumb/6/6a/045Vileplume.png/600px-045Vileplume.png)
+![Giflor Pokemon](vileplume-seeklogo.com.svg)
 
 # Vileplume for Obsidian
 A poisonous dark theme for [Obsidian](https://obsidian.md/), a tool for connected note taking.
